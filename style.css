@@ -1,0 +1,19 @@
+ .CARDS{
+    display: flex;
+    flex-wrap: wrap;
+    color: black;
+}
+ h1{
+    color: white;
+}
+ h2{
+    color: white;
+}
+ #generatedNotes{
+    color: black;
+    font-weight: bolder;
+}
+
+body{
+    background-color: #242582 !important;
+}
